@@ -1,0 +1,27 @@
+h1{
+    background-color: greenyellow;
+    color: blueviolet;
+    font-weight: solid;
+    
+}
+#A{
+    color: RED;
+
+}
+h2{
+    background-color: blueviolet;
+    color: skyblue;
+}
+#B{
+    BORDER:10PX SOLID rgb(247, 228, 189);
+    PADDING:10PX;
+    background-color: rgb(250, 241, 193);
+    MARGIN:10PX;
+
+}
+#C{
+    BORDER:10PX SOLID rgb(54, 233, 107);
+}
+*{
+    background-color: rgb(160, 221, 216);
+}
